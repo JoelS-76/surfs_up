@@ -1,9 +1,9 @@
-# surfs_up
+# Surf's Up
 ### Analysis of climate data for Oahu using SQLite and SQLalchemy
 
 The purpose of this analysis is to evaluate the climate data for June and December to determine if W. Avy's surf shop/ice cream stand is a good year-round investment.
 
-## Results from data analysis
+## Results from exploratory data analysis
 
 -The average temperature in June is just under 75 degrees. The highest reading was 85 degrees and the lowest was 64.
 
